@@ -13,7 +13,7 @@
 
 - What impact resulted from increasing or decreasing the training window?
 
-**Answer:** Higher weighted average of precision, recall and f1 score with a training window of 6 months.
+  - **Answer:** Higher weighted average of precision, recall and f1 score with a training window of 6 months.
 
 ![New Training Model](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Model%20with%20new%20training%20timstamp.png)
 ![Results New Training Model](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Model%20with%20new%20training%20results.png)
@@ -23,14 +23,14 @@
   - New SMA Short: 10
   - New SMA Long: 150
 
-**Answer:** Higher weighted average of precision, recall and f1 score with a training window of 6 months.
+  - **Answer:** Higher weighted average of precision, recall and f1 score with a training window of 6 months.
 
 ![New SMA Model](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Model%20with%20new%20SMA.png)
 ![Results New SMA](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Model%20with%20new%20SMA%20results.png)
 
-- Best model
+- Which set of parameters yield the best outcome?
 
-**Answer:** The model that yield the highest cumulative returns was the model with the modified training window (i.e., 6 months).
+  - **Answer:** The model that yield the highest cumulative returns was the model with the modified training window (i.e., 6 months).
 
 ![Best Model](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Model%20with%20new%20training%20timstamp.png)
 
