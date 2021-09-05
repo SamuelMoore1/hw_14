@@ -2,7 +2,7 @@
 
 ## Baseline
 
-!(Baseline model)[https://github.com/SamuelMoore1/hw_14/tree/main/Screenshots]
+![Baseline mode](https://github.com/SamuelMoore1/hw_14/tree/main/Screenshots)
 **Cumulative Returns Using SVC Classifier**
 
 ---
