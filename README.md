@@ -5,6 +5,7 @@
 **Cumulative Returns Using SVC Classifier**
 
 ![Baseline mode](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Baseline%20model.png)
+![Basleine results](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Baseline%20Results.png)
 
 ---
 
