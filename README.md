@@ -2,6 +2,8 @@
 
 ## Baseline
 
+**Cumulative Returns Using SVC Classifier**
+
 ---
 
 ## Tune the Baseline Trading Algorithm
