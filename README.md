@@ -38,11 +38,14 @@
 
 ## Evaluate a New Machine Learning Classifier
 
-- **Logistic Regression model**
-
+- **Logistic Regression Model Cumulative Returns Plot**
 ![Logistic Regression Model](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Logistic%20Regression%20Model.png)
+
+- **Logistic Regression Model Results**
 ![Logistic Regression Model results](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Logistic%20Regression%20model%20results.png)
 
 --- 
 
 ## Final Evaluation Report
+
+
