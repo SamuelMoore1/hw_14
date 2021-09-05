@@ -48,4 +48,7 @@
 
 ## Final Evaluation Report
 
+Overall, the algorithmic trading model that was built using the Logistic Regression classifier yiled the lowest cumulaive return, which means that using a SVC instead is better.
+
+Machin Learning classifiers' parameetrs must be tunned to achieve the best outcomes possible.
 
