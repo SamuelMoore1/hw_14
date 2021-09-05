@@ -1,8 +1,10 @@
 # Homework #14 - Alogrithmic Trading 
 
-## Baseline
+## Baseline Model
 
 **Cumulative Returns Using SVC Classifier**
+
+![Baseline mode](https://github.com/SamuelMoore1/hw_14/blob/main/Screenshots/Baseline%20model.png)
 
 ---
 
